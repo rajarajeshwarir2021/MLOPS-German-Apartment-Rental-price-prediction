@@ -1,0 +1,5 @@
+outs:
+- md5: 8573a8f981c547f55835680c8da78f3a
+  size: 284924672
+  hash: md5
+  path: german_rental_price.csv
