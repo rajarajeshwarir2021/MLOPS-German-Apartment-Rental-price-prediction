@@ -1,0 +1,7 @@
+base:
+  project: german-rental-price-prediction-project
+  random_state: 42
+  target_col: TotalRent
+
+data_source:
+  data_source_path: dataset/german_rental_price.csv
